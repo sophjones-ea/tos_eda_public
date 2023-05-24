@@ -13,6 +13,10 @@ streamlit = "*"
 streamlit-autorefresh = "*"
 matplotlib = "*"
 ipykernel = "*"
+snowconvert-deploy-tool = "*"
+pyarrow = "*"
+scipy = "*"
+statsmodels = "*"
 
 [dev-packages]
 
